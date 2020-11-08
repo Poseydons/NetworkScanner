@@ -2,7 +2,8 @@
 import scapy.all as scapy
 import optparse
 import os
-
+os.system("clear")
+os.system("figlet KARABAGH  IS AZERBAIJAN")
 # // scapy.ls(scapy.ARP())
 # // scapy.ls(scapy.Ether())
 
